@@ -1,0 +1,13 @@
+Please remember that I have not tested this application on Windows 8 or 11, so I cannot guarantee that it will work with those operating systems. 
+If you use this application on Windows 8 or 11, you do so at your own risk and acknowledge that I cannot support those systems. 
+Thank you very much.
+
+You MUST have an internet connection for the program to work!!
+
+ALWAYS CREATE A RESTORE POINT BEFORE ANY TWEAKS!!
+
+This tweaks normally remove some useless windows services , if you dont want to remove those kind of services , dont run the tweak.
+
+
+
+
